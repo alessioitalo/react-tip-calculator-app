@@ -11,7 +11,7 @@ const StyledContainer = styled.div`
   align-items: center;
   padding: 1rem;
   @media (min-width: 800px) {
-    width: 70%;
+    width: 60%;
     flex-direction: row;
     gap: 3rem;
     align-items: stretch;

@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/reacttipcalculatorapp--QZjYcVY7)
+- Live Site URL: [Vercel](https://react-tip-calculator-app-six.vercel.app/)
 
 ## Built with
 
