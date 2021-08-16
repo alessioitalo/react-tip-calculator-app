@@ -28,7 +28,7 @@ const StyledTotal = styled.div`
 
   & .total-total {
     text-align: right;
-    font-size: 1.9rem;
+    font-size: 2.5rem;
     font-weight: bold;
     color: hsl(172, 67%, 45%);
   }
