@@ -1,0 +1,3 @@
+input reset
+...controlled component: the current value entered in the input has to be stored in state
+...when reset function is launched,that state has to reset to empty string
