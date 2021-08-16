@@ -19,7 +19,8 @@ const StyledTip = styled.div`
     }
   }
 
-  & input:focus{
+  & input:focus,
+  & input:hover{
     outline: none;
     border: none;
     box-shadow: 0 0 0 1px hsl(172, 67%, 45%);
@@ -36,7 +37,7 @@ const StyledTip = styled.div`
   }
   & div input::placeholder {
     font-family: "Space Mono", monospace;
-    font-size: 24px;
+    font-size: 14px;
     text-align: center;
     color: hsla(183, 100%, 15%, 0.5);
     font-weight: bold;
